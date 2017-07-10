@@ -1,2 +1,2 @@
 commit 8
-<value>anton 8</value>
+<value>anton shipus 8</value>
