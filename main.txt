@@ -1,2 +1,2 @@
-commit 2
-<value>2</value>
+commit 3
+<value>3</value>
