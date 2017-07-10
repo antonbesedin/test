@@ -1,2 +1,2 @@
-commit 6
-<value>both 6</value>
+commit 7
+<value>shipus 7</value>
