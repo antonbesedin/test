@@ -1,2 +1,2 @@
-commit 7
-<value>shipus 7</value>
+commit 8
+<value>anton 8</value>
