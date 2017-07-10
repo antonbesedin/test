@@ -1,2 +1,2 @@
 commit 5
-<value>master 5</value>
+<value>both 5</value>
